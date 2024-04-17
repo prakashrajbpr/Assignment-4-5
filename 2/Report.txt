@@ -1,0 +1,10 @@
+The below observations are for the graphs that are obtained from 2nd question.
+
+
+1. The blood pressure model appears reliable based on the agreement between the model and bootstrap samples.
+
+2. Means: The average values (means) of the bootstrap samples are close to the mean of the original blood pressure model.
+
+3. Standard Deviations: The variability (standard deviations) of the bootstrap samples are small, indicating consistency in the model's predictions.
+
+4. 95th Percentiles: The 95th percentiles of the bootstrap samples are close to the 95th percentile of the original model, suggesting the model captures most of the data distribution.
